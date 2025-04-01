@@ -1,0 +1,29 @@
+nav ul {display:flex;
+justify-content:space-evenly;
+width:100%;
+color:white;
+background-color:black;
+margin:0;
+list-style-type: none;
+padding:0;
+}
+
+a{color:white;}
+
+ul li{
+width:20%;}
+
+main{display:flex;}
+
+article{margin:1.5em 2.52525% 0 2.0202%;}
+article img{max-width: 100%; margin-bottom: 1em;}
+
+aside{width:40%;
+padding:2.0202%;
+max-width:200px;
+min-height:180px;
+background-color:#ffebc6;
+margin:1.5em 2.0202% 0 0;}
+
+footer{background-color:pink;}
+
